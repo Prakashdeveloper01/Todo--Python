@@ -1,0 +1,13 @@
+my_fastapi_project/
+│
+├── app/
+│   ├── __init__.py
+│   ├── mainapp.py
+│   ├── api/
+│   │   ├── __init__.py
+│   │   └── router/
+│   │       ├── __init__.py
+│   │       └── todo.py
+│   └── ...
+│
+└── ...
